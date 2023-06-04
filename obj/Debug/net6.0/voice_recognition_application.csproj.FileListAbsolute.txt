@@ -1,0 +1,17 @@
+C:\Temp\Projetos\voice_recognition_application\voice_recognition_application\bin\Debug\net6.0\voice_recognition_application.exe
+C:\Temp\Projetos\voice_recognition_application\voice_recognition_application\bin\Debug\net6.0\voice_recognition_application.deps.json
+C:\Temp\Projetos\voice_recognition_application\voice_recognition_application\bin\Debug\net6.0\voice_recognition_application.runtimeconfig.json
+C:\Temp\Projetos\voice_recognition_application\voice_recognition_application\bin\Debug\net6.0\voice_recognition_application.dll
+C:\Temp\Projetos\voice_recognition_application\voice_recognition_application\bin\Debug\net6.0\voice_recognition_application.pdb
+C:\Temp\Projetos\voice_recognition_application\voice_recognition_application\obj\Debug\net6.0\voice_recognition_application.csproj.AssemblyReference.cache
+C:\Temp\Projetos\voice_recognition_application\voice_recognition_application\obj\Debug\net6.0\voice_recognition_application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\voice_recognition_application\voice_recognition_application\obj\Debug\net6.0\voice_recognition_application.AssemblyInfoInputs.cache
+C:\Temp\Projetos\voice_recognition_application\voice_recognition_application\obj\Debug\net6.0\voice_recognition_application.AssemblyInfo.cs
+C:\Temp\Projetos\voice_recognition_application\voice_recognition_application\obj\Debug\net6.0\voice_recognition_application.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\voice_recognition_application\voice_recognition_application\obj\Debug\net6.0\voice_recognition_application.dll
+C:\Temp\Projetos\voice_recognition_application\voice_recognition_application\obj\Debug\net6.0\refint\voice_recognition_application.dll
+C:\Temp\Projetos\voice_recognition_application\voice_recognition_application\obj\Debug\net6.0\voice_recognition_application.pdb
+C:\Temp\Projetos\voice_recognition_application\voice_recognition_application\obj\Debug\net6.0\voice_recognition_application.genruntimeconfig.cache
+C:\Temp\Projetos\voice_recognition_application\voice_recognition_application\obj\Debug\net6.0\ref\voice_recognition_application.dll
+C:\Temp\Projetos\voice_recognition_application\voice_recognition_application\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Temp\Projetos\voice_recognition_application\voice_recognition_application\obj\Debug\net6.0\voice_recognition_application.csproj.CopyComplete
